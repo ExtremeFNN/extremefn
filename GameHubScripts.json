@@ -1,0 +1,9 @@
+[
+    {
+        "title":"A Universal Time",
+        "credits": "by TweedLeak",
+        "desc" : "AUT GUI mainly intended for autofarming.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AUT.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AUT.png"
+    }
+]
